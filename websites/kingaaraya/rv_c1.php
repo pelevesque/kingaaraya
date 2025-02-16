@@ -1,0 +1,1 @@
+<?php $page_title = 'Kinga Araya | C 1/2';include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/c1(800_1327).jpg" width="800" height="1327" alt="review" /><br /><span class="review_links"><a href="rv_c2.php">next</a></span></div><?php include ('_includes/footer_review.inc'); ?>

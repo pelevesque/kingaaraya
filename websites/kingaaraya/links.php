@@ -1,0 +1,5 @@
+<?php$page_title ="Kinga Araya | Links";include('_includes/header.inc');?><h3 id="page_header">Links</h3><p>
+<a href="http://appweb.cortland.edu/ojs/index.php/wagadu/">Wagadu, Journal for Transnational Women's and Gender 
+Studies, v.7, 2009</a><br />
+<a href="http://www.art-in-berlin.de/incbmeldvideo.php?id=1688">Interview with Carola Hartlieb for art in berlin Berlin, June 2009:</a><br />
+<a href="http://www.givideo.org/ang/indexA/indexA_videastes_frames.html">Groupe Intervention Vid&eacute;o (GIV)</a><br /><a href="http://art-history.concordia.ca/eea" >Canadian Artists of Eastern European Origin</a><br /><a href="http://www.peakgallery.com" >Discipline</a><br /><a href="http://csw.art.pl/new/2000/araya.html ">Grounded (II)</a><br /><a href="http://www.wizya.net/inter4/araya.htm" >PolCan</a><br /><a href="http://www.alphagirls.ca" >Grounded (III) DVD Cyber Performance</a><br /><a href="http://www.corps.machine.uqam.ca/pages/artistes/araya/araya.html" >Body / Machine</a><br /><a href="http://www.peakgallery.com" >Domestic Exiles</a><br /></p><?php include('_includes/footer.inc'); ?>

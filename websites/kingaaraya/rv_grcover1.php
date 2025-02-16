@@ -1,0 +1,1 @@
+<?php $page_title = "Kinga Araya | Grounded Cover 1";include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/grcover1(900_1248).jpg" width="900" height="1248" alt="review" /><br /><span class="review_links"><a href="rv_grcover2.php">next</a></span></div><?php include ('_includes/footer_review.inc'); ?>

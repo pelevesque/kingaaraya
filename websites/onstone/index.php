@@ -1,0 +1,1 @@
+<?php $page_title = 'On Stone';include('includes/header.php'); ?><h3>Introduction</h3><p>Welcome to the Onstone project.</p><p>This site is currently under development.</p><p>Completion date is set for summer 2007.</p><br /><?php include('includes/footer.php'); ?>

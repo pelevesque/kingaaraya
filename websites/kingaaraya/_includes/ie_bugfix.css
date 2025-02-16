@@ -1,0 +1,1 @@
+/* bug fix for dropshadow in Internet Explorer */.alpha-shadow div {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='dropshadow/shadow2.png', sizingMethod='crop');background: none;}

@@ -1,0 +1,1 @@
+<?php $page_title = 'Kinga Araya | Compulsion 1/2';include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/compulsion1(650_868).jpg" width="650" height="868" alt="review" /><br /><span class="review_links"><a href="rv_compulsion2.php">next</a></span></div><?php include ('_includes/footer_review.inc'); ?>

@@ -1,0 +1,1 @@
+<!-- *************************** END OF PAGE SPECIFIC CONTENT **************************** --><div id="ftr"> <h5>Kinga Araya &copy; 2007<span class="ftr_seperator">|</span><a href="http://validator.w3.org/check/referer">xhtml&nbsp;1.0</a><span class="ftr_seperator">|</span><a href="http://kingaaraya.com/_hidden/pel">pel</a></h5></div></div></div></body></html>

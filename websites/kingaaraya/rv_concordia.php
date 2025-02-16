@@ -1,0 +1,1 @@
+<?php $page_title = 'Kinga Araya | Concordia Thursday Report';include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/concordia(1150_1522).jpg" width="1150" height="1522" /></div><?php include ('_includes/footer_review.inc'); ?>

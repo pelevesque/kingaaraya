@@ -1,0 +1,1 @@
+<?php $page_title = 'Kinga Araya | Artweek 1/3';include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/artweek1(800_1054).jpg" width="800" height="1054" alt="review" /><br /><span class="review_links"><a href="rv_artweek2.php">next</a></span></div><?php include ('_includes/footer_review.inc'); ?>

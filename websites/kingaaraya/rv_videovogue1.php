@@ -1,0 +1,1 @@
+<?php $page_title = 'Kinga Araya | VideoVogue 1/2';include ('_includes/header_review.inc'); ?><div  class="center"><img id="review" src="_images/reviews/vv1(774_1018).jpg" width="720" alt="review" /><br /><span class="review_links"><a href="rv_videovogue2.php">next</a></span></div><?php include ('_includes/footer_review.inc'); ?>
